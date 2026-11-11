@@ -56,7 +56,7 @@ Design of nanosatellite handling supports and a vibration-testing capsule using 
 
 ## Contact
 
-[GitHub](https://github.com/dkruppel-ux) · [LinkedIn — add your URL](https://www.linkedin.com/) · Email: *add your professional email* · CV: *add a PDF link*
+[GitHub](https://github.com/dkruppel-ux) · [LinkedIn](https://www.linkedin.com/in/danillokruppel) · Email: dkruppel@gmail.com · [CV](https://drive.google.com/file/d/1Xp9AaX0sSx-1x_yZmvGRgk5wLO0coQpj/view?usp=sharing)
 
 ---
 <sub>GitHub-native portfolio · Custom visuals · No separate website required</sub>
